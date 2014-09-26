@@ -1,0 +1,14 @@
+[{
+	"name": "",
+	"isDirectory": T|F,
+	"isCommand": T|F,
+	"parameters": [
+		{
+			"name": "",
+			"abbr": "",
+			"parameters":[],
+			"function":""	
+		}		
+	],
+	"function": ""
+}]
