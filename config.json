@@ -1,7 +1,7 @@
 [{
 	"name": "",
-	"isDirectory": T|F,
-	"isCommand": T|F,
+	"isDirectory": false,
+	"isCommand": true,
 	"parameters": [
 		{
 			"name": "",
